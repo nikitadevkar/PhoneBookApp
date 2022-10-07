@@ -1,5 +1,5 @@
 package com.BikkadIT.controller;
 
-public class Myperson {
+public class ContactController {
 
 }
